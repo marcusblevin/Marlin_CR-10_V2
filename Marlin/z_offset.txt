@@ -1,0 +1,8 @@
+This changes with each mount adjustment of the BLTouch
+-0.71
+-1.61
+-1.425
+-1.75
+-1.35
+-1.26
+-1.70 - after tightening extruder gantry
